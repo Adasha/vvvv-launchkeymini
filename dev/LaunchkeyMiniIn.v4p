@@ -1,5 +1,5 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv50beta35.8.dtd" >
-   <PATCH nodename="C:\Users\Adasha\Dropbox\Development\Languages\vvvv\patches\mine\devices\LaunchkeyMiniIn.v4p" systemname="LaunchkeyMiniIn" filename="C:\Users\Adasha\Dropbox\Development\vvvv\patches\mine\setup\LaunchkeyMiniIn.v4p" locked="0" scrollx="0" scrolly="0">
+   <PATCH nodename="C:\Users\Adasha\Dropbox\Development\Visuals\vvvv\devices\LaunchkeyMinMk2\dev\LaunchkeyMiniIn.v4p" systemname="LaunchkeyMiniIn" filename="C:\Users\Adasha\Dropbox\Development\vvvv\patches\mine\setup\LaunchkeyMiniIn.v4p" locked="0" scrollx="0" scrolly="0">
    <BOUNDS type="Window" left="3255" top="1170" width="18315" height="7695">
    </BOUNDS>
    <NODE systemname="MidiNote (Devices)" nodename="MidiNote (Devices)" componentmode="Hidden" id="2">
@@ -141,9 +141,9 @@
    </PIN>
    </NODE>
    <NODE systemname="IOBox (Value Advanced)" nodename="IOBox (Value Advanced)" componentmode="InABox" id="33">
-   <BOUNDS type="Node" left="3456" top="6078" width="100" height="100">
+   <BOUNDS type="Node" left="3456" top="6093" width="100" height="100">
    </BOUNDS>
-   <BOUNDS type="Box" left="3456" top="6078" width="804" height="240">
+   <BOUNDS type="Box" left="3456" top="6093" width="804" height="240">
    </BOUNDS>
    <PIN pinname="Value Type" slicecount="1" values="Real">
    </PIN>
